@@ -16,6 +16,14 @@
       "expo-router",
       "expo-web-browser",
       "@bacons/apple-colors"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.bacon.sfbarhopper"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "30f8447e-c6c6-41a2-96b3-14b240b76a6b"
+      }
+    }
   }
 }
